@@ -79,16 +79,23 @@ Currently, I am focused on **Agentic AI**, **Fine-Tuning**, and optimizing model
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ramsaheb&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Ramsaheb's GitHub Stats" />
-</p>
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Ramsaheb&theme=dark&hide_border=false" alt="Ramsaheb's Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramsaheb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
 <div align="center">
-<a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=Ramsaheb&icon=0&color=0" alt="Visitor Count" />
-</a>
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td align="center" colspan="2" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ramsaheb&theme=dark&hide_border=false&include_all_commits=true" alt="Ramsaheb's GitHub Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=Ramsaheb&theme=dark&hide_border=false" alt="Ramsaheb's Streak" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramsaheb&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Ramsaheb&style=flat-square&color=blue" alt="Visitor Count" />
 </div>
