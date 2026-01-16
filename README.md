@@ -83,7 +83,7 @@ Currently, I am focused on **Agentic AI**, **Fine-Tuning**, and optimizing model
   <table style="border: none; border-collapse: collapse;">
     <tr>
       <td align="center" colspan="2" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ramsaheb&theme=dark&hide_border=false&include_all_commits=true" alt="Ramsaheb's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Ramsaheb&theme=dark&show_icons=true" alt="Ramsaheb's GitHub Stats" />
       </td>
     </tr>
     <tr>
@@ -91,11 +91,11 @@ Currently, I am focused on **Agentic AI**, **Fine-Tuning**, and optimizing model
         <img src="https://nirzak-streak-stats.vercel.app/?user=Ramsaheb&theme=dark&hide_border=false" alt="Ramsaheb's Streak" />
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramsaheb&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramsaheb&theme=dark&layout=compact" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Ramsaheb&style=flat-square&color=blue" alt="Visitor Count" />
-</div>
+</div>>
